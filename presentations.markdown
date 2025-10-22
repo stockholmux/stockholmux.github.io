@@ -22,6 +22,36 @@ types:
       pretty: Cours
 
 items:
+    -   title: "Introduction to Valkey + Python"
+        for: "PyCon Africa"
+        date: 2025-10-09
+        type: conf
+    -   title: "Conference Emcee"
+        for: "Keyspace 2025"
+        date: 2025-08-30
+        type: conf
+    -   title: "Valkey"
+        for: "Linux Inlaws S02E43"
+        date: 2025-08-07
+        type: podcast
+    -   title: "All you need to know about using Valkey and Java together"
+        for: "Montréal JUG"
+        date: 2025-06-17
+        type: meetup
+        link: https://www.montreal-jug.org/meetup/using-valkey-and-java-together/
+    -   title: "Past, Present, and Future: Redis, Valkey, and what comes next"
+        for: "Data on Kubernetes Community"
+        date: 2024-12-12
+        type: meetup
+    -   title: "Maximize application performance with Valkey"
+        for: "re:Invent 2024"
+        date: 2024-12-01
+        type: conf
+    -   title: "How you write matters in open source"
+        for: "All Things Open"
+        date: 2024-10-28
+        type: conf
+        link: https://2024.allthingsopen.org/sessions/how-you-write-matters-in-open-source
     -   title: "Digging in to Valkey, an open source, in-memory data store"
         for: Open Source Summit North America
         date: 2024-04-16
