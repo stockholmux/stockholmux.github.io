@@ -28,7 +28,13 @@
       "startDate": "2024",
       "endDate": "Present",
       "highlights": [
-        "Established cross-organizational open source strategy."
+        "Instrumental in establishing Valkey as a new Linux Foundation project.",
+        "Designed and executed a cross-organizational open source strategy.",
+        "Coordinated activities with organizations such as Tecent, Alibaba, Google, Oracle, Percona, Huawei, Ericsson, & Aiven.",
+        "Developed and executed 1st and 3rd party event plans.",
+        "Served as editor and coordinator for technical content.",
+        "Maintained relationship with project technical steering committee.",
+        "Managed multi-million dollar marketing services contract."
       ]
     },
     {
@@ -37,7 +43,7 @@
       "endDate": "2024",
       "highlights": [
         "Served on leadership team.",
-        "Lead project documentation.",
+        "Led project documentation.",
         "Advised on open source strategy.",
         "Represented project at conferences.",
         "Established community meeting series.",
@@ -60,77 +66,50 @@
     },
     {
       "company": "Redis Labs",
-      "position": "Head of Developer Advocacy",
-      "startDate": "2018",
+      "position": "Head of Developer Advocacy, Technical Marketing Manager (2017)",
+      "startDate": "2017",
       "endDate": "2020",
       "highlights": [
-        "Managed team of 2 Developer Advocates.",
+        "Managed 2 Developer Advocates.",
         "Facilitated conference trainings & technical workshops.",
         "Wrote monthly newsletter.",
         "Wrote book _Redis Microservices for Dummies_ (Wiley).",
+        "Managed the production of _Redis for Dummies_ (Wiley).", 
         "Authored regular technical blog posts.",
         "Created technical decks to illustrate product capabilities.",
         "Provided feedback and community information to engineering.",
         "Served as subject matter expert for product.",
         "Served as general product spokesperson for media.",
-        "Supported in-person events."
+        "Wrote technical content for web pages and gated assets.",
+        "Produced white papers.",
+        "Assisted with technical analyst relations.", 
+        "Produced animated feature videos.", 
+        "Wrote and maintained feature demos."
       ]
-    },
-    {
-      "name": "Redis Labs",
-      "position": "Technical Marketing Manager",
-      "startDate": "2017",
-      "endDate": "2018",
-      "highlights": [
-          "Provided feedback on technical content.",
-          "Wrote technical content for web pages and gated assets.",
-          "Produced white papers.",
-          "Assisted with trainings.", 
-          "Assisted with technical analyst relations.", 
-          "Produced animated feature videos.", 
-          "Managed the production of _Redis for Dummies_ (Wiley).", 
-          "Authored regular technical blog posts.", 
-          "Created technical decks to illustrate product capabilities.", 
-          "Wrote and maintained feature demos.", 
-          "Served as subject matter expert for product.", 
-          "Supported in-person events."
-      ]
-    },
-    {
-      "company": "Akureryi Networks",
-      "startDate" : "2014",
-      "endDate" : "2017",
-      "summary" : "Freelance technical consultant, author, and software developer."
-    },
-    {
-      "company": "T-Mark International",
-      "startDate": "2012",
-      "endDate": "2014",
-      "summary" : "Technical Production Analyst for reliability, code quality, and standardization"
     }
   ],
   "skills": [
-
-    { "name": "Javascript", "time": "22 years", "category" : "Technical Skills" },
-    { "name": "Python", "time" : "7 years", "category" : "Technical Skills" },
-    { "name": "WASM", "time" : "1 year", "category" : "Technical Skills" },
-    { "name": "Rust", "time" : "1 year", "category" : "Technical Skills" },
-    { "name": "OpenSCAD", "time" : "2 years", "category" : "Technical Skills" },    
-
+    { "name": "Containers", "time" : "7 years", "category" : "Technical Skills" },
+    { "name": "Firebase", "time" : "2 years", "category" : "Technical Skills" },
+    { "name": "HTML", "time" : "27 years", "category" : "Technical Skills" },
+    { "name": "Hugo", "time" : "2 year", "category" : "Technical Skills" },
+    { "name": "Javascript", "time": "25 years", "category" : "Technical Skills" },
+    { "name": "Jekyll", "time" : "2 year", "category" : "Technical Skills" },
+    { "name": "Kubernetes", "time" : "3 year", "category" : "Technical Skills" },
+    { "name": "Linux", "time" : "12 years", "category" : "Technical Skills" },
+    { "name": "Python", "time" : "9 years", "category" : "Technical Skills" },
+    { "name": "OCaml", "time" : "1 year", "category" : "Technical Skills" },
+    { "name": "OpenSCAD", "time" : "4 years", "category" : "Technical Skills" },    
     { "name": "OpenSearch", "time": "2 years", "category" : "Technical Skills" },
     { "name": "Redis", "time": "8 years", "category" : "Technical Skills" },
-    { "name": "SQL", "time" : "16 years", "category" : "Technical Skills" },
-    { "name": "Firebase", "time" : "2 years", "category" : "Technical Skills" },
+    { "name": "Rust", "time" : "1 year", "category" : "Technical Skills" },
+    { "name": "SQL", "time" : "18 years", "category" : "Technical Skills" },
+    { "name": "Valkey", "time": "1.5 years", "category" : "Technical Skills" },
+    { "name": "WASM", "time" : "1 year", "category" : "Technical Skills" },
+    { "name": "Zola", "time" : "1.5 year", "category" : "Technical Skills" },
 
-    { "name": "Linux", "time" : "10 years", "category" : "Technical Skills" },
-    { "name": "Containers", "time" : "5 years", "category" : "Technical Skills" },
-    { "name": "Kubernetes", "time" : "1 year", "category" : "Technical Skills" },
-    
-    { "name": "HTML", "time" : "25 years", "category" : "Technical Skills" },
-    { "name": "Jekyll", "time" : "2 year", "category" : "Technical Skills" },
-    { "name": "Hugo", "time" : "1 year", "category" : "Technical Skills" },
-    
     { "name": "Public speaking (extensive)", "category" : "Other Skills"  },
+    { "name": "Open Source Strategy", "category" : "Other Skills" },
     { "name": "Writing & Editing", "category" : "Other Skills" },
     { "name": "Illustration & Diagraming", "category" : "Other Skills" },
     { "name": "Animation", "category" : "Other Skills" },
